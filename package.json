@@ -1,6 +1,6 @@
 {
   "name": "gulp-postcss-scoped-keyframes-for-wxmini",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "小程序中 页面与页面之前 keyframes 不能重名，可能会相互干扰，做一个keyframes scoped 工具，就不用想这个问题了",
   "main": "index.js",
   "scripts": {
